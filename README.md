@@ -1,5 +1,9 @@
 # Early Detection of Type 2 Diabetes using Machine Learning: A Comparative Benchmark
-
+## Metropolitan University
+## Machine Learning Lab 
+## Course: SWE-318 
+## Name: Nazia Rahman Shirin
+## ID: 241-134-012
 [![Python](https://img.shields.io/badge/Python-3.10%20%7C%203.11%20%7C%203.12-2ea44f.svg)](https://www.python.org/)
 [![Domain](https://img.shields.io/badge/Domain-Clinical%20Informatics-teal.svg)](#)
 [![Validation](https://img.shields.io/badge/Validation-Stratified%205--Fold%20CV-007acc.svg)](#)
