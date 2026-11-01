@@ -1,0 +1,9 @@
+Feature_Code,Feature_Name,ANOVA_F_Score,P_Value,Mutual_Info_Gain,ANOVA_Rank,Info_Gain_Rank
+Fe2,Glucose,213.162,0.0,0.1146,1,1
+Fe6,BMI,71.772,0.0,0.0801,2,2
+Fe8,Age,46.141,0.0,0.0514,3,4
+Fe1,Pregnancies,39.67,0.0,0.061,4,3
+Fe7,DiabetesPedigreeFunction,23.871,1e-06,0.0146,5,5
+Fe5,Insulin,13.281,0.000286,0.0119,6,6
+Fe4,SkinThickness,4.304,0.038348,0.0047,7,7
+Fe3,BloodPressure,3.257,0.071514,0.0,8,8

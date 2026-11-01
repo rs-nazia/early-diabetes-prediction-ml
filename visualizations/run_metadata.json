@@ -1,0 +1,10 @@
+{
+  "dataset_file": "dataset/diabetes.csv",
+  "dataset_sha256": "123ce738f394095a201da0f65c5e174cdcb19cdf5ec1535aee65e2b0e1e2aae2",
+  "total_instances": 768,
+  "features": 8,
+  "train_samples": 537,
+  "test_samples": 231,
+  "seed": 42,
+  "models_evaluated": 10
+}
